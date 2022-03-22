@@ -89,6 +89,26 @@
       "status": "Selesai"
     }
   ],
+  "sales_order":[
+    {
+      "id": 1,
+      "so_date": "2021-02-30T17:00:00.000Z",
+      "so_code": "SO-2022020001",
+      "customers_id": "S1",
+      "customers_name": "Customer A",
+      "so_bills": 1232000,
+      "status": "Selesai"
+    },
+    {
+      "id": 2,
+      "so_date": "2021-02-30T17:00:00.000Z",
+      "so_code": "SO-2022020001",
+      "customers_id": "S2",
+      "customers_name": "Customer B",
+      "so_bills": 25232000,
+      "status": "Selesai"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
