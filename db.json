@@ -43,16 +43,50 @@
       "q_reserved": 5
     }
   ],
-  "comments": [
+  "po_list": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "po_date": "2021-03-04T17:00:00.000Z",
+      "po_code": "PO-2022040001",
+      "supplier_id": "S1",
+      "supplier_name": "Supplier A",
+      "po_cost": 1000000,
+      "warehouse_id": "WH1",
+      "warehouse_name": "Gudang Utama",
+      "status": "Selesai"
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "po_date": "2021-01-31T17:00:00.000Z",
+      "po_code": "PO-2022040002",
+      "supplier_id": "S2",
+      "supplier_name": "Supplier B",
+      "po_cost": 1523000,
+      "warehouse_id": "WH1",
+      "warehouse_name": "Gudang Utama",
+      "status": "Selesai"
+    },
+    {
+      "id": 3,
+      "po_date": "2021-02-30T17:00:00.000Z",
+      "po_code": "PO-2022020001",
+      "supplier_id": "S3",
+      "supplier_name": "Supplier C",
+      "po_cost": 1232000,
+      "warehouse_id": "WH2",
+      "warehouse_name": "Gudang A",
+      "status": "Selesai"
+    },
+    {
+      "id": 4,
+      "po_date": "2021-02-31T17:00:00.000Z",
+      "po_code": "PO-2022020002",
+      "supplier_id": "S4",
+      "supplier_name": "Supplier D",
+      "po_cost": 502000,
+      "warehouse_id": "WH2",
+      "warehouse_name": "Gudang A",
+      "status": "Selesai"
     }
   ],
   "profile": {
